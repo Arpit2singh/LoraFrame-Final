@@ -63,16 +63,6 @@ LORAFRAME is an advanced AI pipeline designed to generate consistent, evolving d
 
 ---
 
-video results
-
-
-https://github.com/user-attachments/assets/80b433de-0f4c-47c4-8d18-30b47c584c47
-
-
-
-
-https://github.com/user-attachments/assets/29c6a056-8ba0-4043-847d-80383e128298
-
 
 ##  Architecture
 
